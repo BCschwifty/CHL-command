@@ -151,10 +151,10 @@ sudo rm /usr/local/bin/chl
 cd /
 sudo mkdir scripts
 cd /scripts
-sudo wget https://github.com/BCschwifty/CHL-command/releases/download/CHL-1.0/run.sh
+sudo wget https://github.com/BCschwifty/CHL-command/releases/download/CHL-1.1/run.sh
 
 cd /usr/local/bin
-sudo wget https://github.com/BCschwifty/CHL-command/releases/download/CHL-1.0/chl.bash
+sudo wget https://github.com/BCschwifty/CHL-command/releases/download/CHL-1.1/chl.bash
 sudo cp chl.bash chl
 sudo rm chl.bash
 sudo chmod +x chl
